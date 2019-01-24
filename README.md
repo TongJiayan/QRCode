@@ -1,2 +1,3 @@
-# tj_workStore
-2016 TongJi CS programe learning,homework left by Shenjian,store 
+# QRCode
+When given a information,it will return you a qrcode.
+
